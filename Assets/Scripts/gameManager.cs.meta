@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b1c33d597d51dca48bd86e37259daf3a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 6236555049370697458, guid: 8d51f70a30652b64d97e429dc3ba4df1, type: 3}
+  - enemy: {fileID: 2654212894215228014, guid: 071b08b6bddb503439180a05c27b8a38, type: 3}
+  - enemy2: {fileID: 2654212894215228014, guid: 182e83ad882c57d48b3f3613ee9b4e7a, type: 3}
+  - coin: {fileID: 664101428791130734, guid: e21c2f73a575b8a4d83e7e14ed8d9e63, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
