@@ -33,6 +33,6 @@ public class GameManager : MonoBehaviour
 
     void CreateCoin()
     {
-        Instantiate(coin, new Vector3(Random.Range(-11f, 11f), Random.Range(-4f, 1f), 0), Quaternion.identity);
+        Instantiate(coin, new Vector3(Random.Range(-10f, 10f), Random.Range(-4f, 1f), 0), Quaternion.identity);
     }
 }
